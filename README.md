@@ -1,1 +1,1 @@
-README.md first commit
+Hello from VS Code + WSL!
